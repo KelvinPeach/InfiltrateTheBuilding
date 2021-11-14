@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d60e76583d18f24f8c328c15ed36c19, type: 3}
+  m_Name: Yellow
+  m_EditorClassIdentifier: 
+  displayName: Roadie Outfit
+  description: Worn by band support crew.
+  material: {fileID: 2100000, guid: 40b9aa13974c78e4b9e4135c8f8f3c20, type: 2}
+  pickup: {fileID: 7108595746000758880, guid: 46f90a845ed382948aeff21d0c7338ee, type: 3}

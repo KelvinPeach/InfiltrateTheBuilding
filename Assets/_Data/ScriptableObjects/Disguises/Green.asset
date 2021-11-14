@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d60e76583d18f24f8c328c15ed36c19, type: 3}
+  m_Name: Green
+  m_EditorClassIdentifier: 
+  displayName: Rocker Outfit
+  description: Worn by rock fans.
+  material: {fileID: 2100000, guid: e473a2c5851b8f94f99a425ac4f19e71, type: 2}
+  pickup: {fileID: 4081660801857153441, guid: 707697e6baad3d84288d45a701edbbec, type: 3}
